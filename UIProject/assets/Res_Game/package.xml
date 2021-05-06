@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="r8rj2qst">
+  <resources>
+    <image id="lsss1a" name="CardsBG.png" path="/BG/" exported="true"/>
+    <image id="lsss0" name="IdentityBG.jpg" path="/BG/" exported="true"/>
+    <image id="lsss1" name="3-Black&apos;n&apos;White.png" path="/Button/" exported="true"/>
+    <image id="lsss2" name="2-Orange.png" path="/Button/" exported="true"/>
+    <image id="lsss3" name="3-Colored.png" path="/Button/" exported="true"/>
+    <image id="lsss4" name="42a85ded9c2a87504d71859bd7c3db28.png" path="/BG/" exported="true"/>
+    <image id="lsss5" name="5.png" path="/Number/"/>
+    <image id="lsss6" name="6.png" path="/Number/"/>
+    <image id="lsss7" name="7.png" path="/Number/"/>
+    <image id="lsss8" name="8.png" path="/Number/"/>
+    <image id="lsss9" name="9.png" path="/Number/"/>
+    <image id="lsssa" name="0.png" path="/Number/"/>
+    <image id="lsssb" name="1.png" path="/Number/"/>
+    <image id="lsssc" name="2.png" path="/Number/"/>
+    <image id="lsssd" name="3.png" path="/Number/"/>
+    <image id="lssse" name="4.png" path="/Number/"/>
+    <font id="lsssf" name="FontNumber.fnt" path="/Number/" exported="true"/>
+    <image id="lsssg" name="CardLight1.png" path="/Anim/"/>
+    <image id="lsssh" name="CardLight2.png" path="/Anim/"/>
+    <movieclip id="lsssi" name="CardLight.jta" path="/Anim/" exported="true"/>
+    <movieclip id="lsssj" name="OpenEye.jta" path="/Anim/" exported="true"/>
+    <movieclip id="lsssk" name="CloseEye.jta" path="/Anim/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

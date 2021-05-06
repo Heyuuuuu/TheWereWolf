@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="rcid73vd">
+  <resources>
+    <component id="lsss0" name="PanelMask.xml" path="/" exported="true"/>
+    <component id="lsss1" name="EyeOpen.xml" path="/" exported="true"/>
+    <component id="lsss2" name="EyeClose.xml" path="/" exported="true"/>
+    <component id="lsss3" name="Btn_KillNumber.xml" path="/"/>
+    <component id="lsss4" name="Btn_ChangePanel.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,176">
+  <displayList>
+    <movieclip id="n0_lsss" name="Anim_Eye" src="lsssj" fileName="Anim/OpenEye.jta" pkg="r8rj2qst" xy="0,0" size="300,176" playing="false"/>
+  </displayList>
+  <transition name="Show">
+    <item time="0" type="Alpha" target="n0_lsss" tween="true" startValue="0" endValue="1" duration="18"/>
+  </transition>
+</component>

@@ -1,0 +1,11 @@
+info size=75 colored=true
+char id=48 img=lsssa xoffset=0 yoffset=0 xadvance=0
+char id=49 img=lsssb xoffset=0 yoffset=0 xadvance=0
+char id=50 img=lsssc xoffset=0 yoffset=0 xadvance=0
+char id=51 img=lsssd xoffset=0 yoffset=0 xadvance=0
+char id=52 img=lssse xoffset=0 yoffset=0 xadvance=0
+char id=53 img=lsss5 xoffset=0 yoffset=0 xadvance=0
+char id=54 img=lsss6 xoffset=0 yoffset=0 xadvance=0
+char id=55 img=lsss7 xoffset=0 yoffset=0 xadvance=0
+char id=56 img=lsss8 xoffset=0 yoffset=0 xadvance=0
+char id=57 img=lsss9 xoffset=0 yoffset=0 xadvance=0

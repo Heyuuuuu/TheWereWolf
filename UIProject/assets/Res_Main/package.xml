@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="fpcs3nk8">
+  <resources>
+    <component id="ox0f0" name="Component1.xml" path="/" exported="true"/>
+    <image id="lsss1" name="defender.jpg" path="/Defender/" exported="true"/>
+    <image id="lsss2" name="Guard.png" path="/Defender/" exported="true"/>
+    <image id="lsss3" name="2-Grey.png" path="/Defender/" exported="true"/>
+    <image id="lsss4" name="Hunter.jpg" path="/Hunter/" exported="true"/>
+    <image id="lsss5" name="2-Emerald.png" path="/Hunter/" exported="true"/>
+    <image id="lsss6" name="RotateLight.png" path="/Prophet/" exported="true"/>
+    <image id="lsss7" name="2-Topaz.png" path="/Prophet/" exported="true"/>
+    <image id="lsss8" name="CardLight1.png" path="/Prophet/" exported="true"/>
+    <image id="lsss9" name="CardLight2.png" path="/Prophet/" exported="true"/>
+    <image id="lsssa" name="CrystalBall.png" path="/Prophet/" exported="true"/>
+    <image id="lsssb" name="Prophet.jpg" path="/Prophet/" exported="true"/>
+    <image id="lsssc" name="Witch.jpg" path="/Witch/" exported="true"/>
+    <image id="lsssd" name="2-Lime.png" path="/Witch/" exported="true"/>
+    <image id="lssse" name="2-Sapphire.png" path="/Witch/" exported="true"/>
+    <image id="lsssf" name="PotionLight.png" path="/Witch/" exported="true"/>
+    <image id="lsssg" name="Boom.png" path="/Wolf/" exported="true"/>
+    <image id="lsssh" name="KillLight.png" path="/Wolf/" exported="true"/>
+    <image id="lsssi" name="Wolf.jpg" path="/Wolf/" exported="true"/>
+    <image id="lsssj" name="2-Ruby.png" path="/Wolf/" exported="true"/>
+    <image id="lsssk" name="3aef231d81f3c453d9f14721bc012a03_04.png" path="/Set/" exported="true"/>
+    <image id="lsssl" name="3aef231d81f3c453d9f14721bc012a03_08.png" path="/Set/" exported="true"/>
+    <image id="lsssm" name="3aef231d81f3c453d9f14721bc012a03_03.png" path="/Set/" exported="true"/>
+    <image id="lsssn" name="帮助界面.png" path="/Map/"/>
+    <image id="lssso" name="发牌界面.png" path="/Map/"/>
+    <image id="lsssp" name="放逐界面.png" path="/Map/"/>
+    <image id="lsssq" name="开闭眼界面.png" path="/Map/"/>
+    <image id="lsssr" name="狼人界面.png" path="/Map/"/>
+    <image id="lssss" name="猎人界面.png" path="/Map/"/>
+    <image id="lssst" name="女巫界面.png" path="/Map/"/>
+    <image id="lsssu" name="设置界面.png" path="/Map/"/>
+    <image id="lsssv" name="守卫界面.png" path="/Map/"/>
+    <image id="lsssw" name="天亮界面.png" path="/Map/"/>
+    <image id="lsssx" name="预言家界面.png" path="/Map/"/>
+    <image id="lsssy" name="主界面.png" path="/Map/"/>
+    <image id="lsssz" name="MainTItle.png" path="/Main/" exported="true"/>
+    <image id="lsss10" name="MainBG.jpg" path="/Main/" exported="true"/>
+    <image id="lsss11" name="Btn_MainBlue.png" path="/Main/" exported="true"/>
+    <image id="lsss12" name="Btn_MainGreen.png" path="/Main/" exported="true"/>
+    <image id="lsss13" name="Btn_MainOrange.png" path="/Main/" exported="true"/>
+    <image id="lsss14" name="Btn_MainPurple.png" path="/Main/" exported="true"/>
+    <sound id="lsss15" name="Crumple.wav" path="/Main/" exported="true"/>
+    <sound id="lsss16" name="Rumble.wav" path="/Main/" exported="true"/>
+    <sound id="lsss17" name="Swipe.wav" path="/Main/" exported="true"/>
+    <sound id="lsss18" name="Tap.wav" path="/Main/" exported="true"/>
+    <image id="lsss19" name="HelpBG.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1b" name="ID1.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1c" name="ID2.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1d" name="ID3.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1e" name="ID4.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1f" name="ID5.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1g" name="ID6.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1h" name="ID7.jpg" path="/Help/" exported="true"/>
+    <image id="lsss1i" name="IDView.png" path="/Help/" exported="true"/>
+    <image id="lsss1j" name="Introduce.png" path="/Help/" exported="true"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
